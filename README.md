@@ -1,6 +1,7 @@
 # YourFaceNft
 create your face NFT
 
-#description
+# description
 create your face uniqe NFT on opensea.io
 
+# usage 
